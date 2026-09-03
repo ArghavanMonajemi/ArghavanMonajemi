@@ -41,4 +41,4 @@ Completed coursework in Advanced Computer Science & Software Engineering in an i
 ### 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/arghavanmonajemi](https://linkedin.com/in/arghavanmonajemi/)
-- **Email:** *[monajemi.am@gmail.com]*
+- **Email:** *monajemi.am@gmail.com*
