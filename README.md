@@ -1,4 +1,4 @@
-![Uploading deGqvXnhFwdsddZfTKPWvuSvtug-KfHzyY7OSoaEh3Ld509Sgg.png…]()
+![alt text](https://github.com/ArghavanMonajemi/ArghavanMonajemi/blob/main/cover.jpg?raw=true)
 
 # Hi, I'm Arghavan Monajemi 👋
 
