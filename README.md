@@ -1,4 +1,4 @@
-![alt text](https://github.com/ArghavanMonajemi/ArghavanMonajemi/blob/main/cover.png?raw=true)
+![alt text](cover.png)
 
 # Hi, I'm Arghavan Monajemi 👋
 
